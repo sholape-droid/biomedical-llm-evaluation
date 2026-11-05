@@ -1,0 +1,36 @@
+question_id,topic,question
+Q01,Haematology,Explain how hepcidin contributes to anaemia of chronic disease.
+Q02,Haematology,How do iron deficiency anaemia and anaemia of chronic disease differ in ferritin and transferrin saturation?
+Q03,Haematology,What causes macrocytosis in vitamin B12 deficiency?
+Q04,Haematology,Explain the role of reticulocyte counts in investigating anaemia.
+Q05,Haematology,How does a sickle cell mutation alter haemoglobin behaviour?
+Q06,Clinical Biochemistry,Explain why phenylketonuria causes phenylalanine accumulation.
+Q07,Clinical Biochemistry,How does the liver regulate blood glucose during fasting?
+Q08,Clinical Biochemistry,What is the biochemical basis of diabetic ketoacidosis?
+Q09,Clinical Biochemistry,Explain how creatinine and eGFR are used to assess kidney function.
+Q10,Clinical Biochemistry,Why might serum lactate rise during tissue hypoxia?
+Q11,Medical Microbiology,Explain the principle of Gram staining and why bacteria stain differently.
+Q12,Medical Microbiology,What is the difference between bactericidal and bacteriostatic antibiotics?
+Q13,Medical Microbiology,How does the mecA gene contribute to methicillin resistance in Staphylococcus aureus?
+Q14,Medical Microbiology,What is the role of blood agar in bacterial identification?
+Q15,Medical Microbiology,Why is a negative culture not always evidence that infection is absent?
+Q16,Immunology,Compare innate and adaptive immune responses.
+Q17,Immunology,Explain the role of antigen-presenting cells in T-cell activation.
+Q18,Immunology,What is the difference between IgM and IgG in a primary immune response?
+Q19,Immunology,Explain the mechanism of a type I hypersensitivity reaction.
+Q20,Immunology,How does ELISA detect an antigen or antibody?
+Q21,Histology,What is the function of goblet cells in the human colon?
+Q22,Histology,How do Alcian blue and PAS staining differ in detecting mucins?
+Q23,Histology,What does MUC2 contribute to the intestinal mucus barrier?
+Q24,Histology,What limitations arise when counting goblet cells in histological sections?
+Q25,Histology,How might ageing influence colonic mucosal barrier function?
+Q26,Molecular Biology,Explain the steps and purpose of PCR.
+Q27,Molecular Biology,How does agarose gel electrophoresis separate DNA fragments?
+Q28,Molecular Biology,What does an A260/A280 ratio indicate about DNA purity?
+Q29,Molecular Biology,What is the difference between gene expression and gene mutation?
+Q30,Molecular Biology,Why are housekeeping genes used in qPCR normalisation?
+Q31,Research Methods,Distinguish sensitivity from specificity in a diagnostic test.
+Q32,Research Methods,What is the difference between a cohort study and a case-control study?
+Q33,Research Methods,Explain the difference between standard deviation and standard error.
+Q34,Research Methods,Why does correlation alone not establish causation?
+Q35,Research Methods,What is the purpose of a negative control in an experiment?
